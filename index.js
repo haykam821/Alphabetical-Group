@@ -1,8 +1,9 @@
 const groupBy = require("lodash.groupby");
 
 /**
- * Group an array alphabetically.
+ * Groups an array alphabetically.
  * @param {*[]} input An array of stringifiable values.
+ * @returns {Object} An object mapping characters to the values that start with it.
  */
 function alphabeticalGroup(input = []) {
 	return groupBy(input.sort(), item => {
