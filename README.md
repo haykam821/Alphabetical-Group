@@ -1,5 +1,9 @@
 # Alphabetical Group
 
+[![GitHub release](https://img.shields.io/github/release/haykam821/Alphabetical-Group.svg?style=popout&label=github)](https://github.com/haykam821/Alphabetical-Group/releases/latest)
+[![npm](https://img.shields.io/npm/v/alphabetical-group.svg?style=popout&colorB=red)](https://www.npmjs.com/package/alphabetical-group)
+[![Travis (.com)](https://img.shields.io/travis/com/haykam821/Alphabetical-Group.svg?style=popout)](https://travis-ci.com/haykam821/Alphabetical-Group)
+
 Alphabetically groups an array of strings.
 
 ## Installation
